@@ -1,4 +1,4 @@
-23ae03d47bed7e4e7d454f7f95247566 *DESCRIPTION
+5c5da0d840904205267e39d3333e7c04 *DESCRIPTION
 29267edd0be0e2a551dcb1813be1fee5 *LICENCE
 350f227a285758dea7ddb36f553b2793 *NAMESPACE
 c5050ab29308fcd1aad3273d0c87bd2f *R/RcppExports.R
@@ -29,7 +29,7 @@ bd1fa7a49e0eee08db4459da300ce7b1 *man/update.cmf.Rd
 f73fd5b457953977cb1534a113426d57 *src/Makevars.in
 4341f87befc336b5c58ddbd8e3aaa59b *src/Makevars.win
 fb7c74faf2fbd839d8976c2905b0c4a4 *src/RcppExports.cpp
-d2f572b9d169040a29e5fa4555ddb724 *src/cmfast.cpp
+aca03f373c553d6d139fb3651e909ac5 *src/cmfast.cpp
 127838c5ee0ce0a4ffddfd2f958fc608 *tests/testthat.R
 8587b3420a8d6fc53398cc8157da88ce *tests/testthat/test_01_cpp_backend.R
 d34ea2def604da3f8d10468cde0fde6c *tests/testthat/test_02_r_backend.R
